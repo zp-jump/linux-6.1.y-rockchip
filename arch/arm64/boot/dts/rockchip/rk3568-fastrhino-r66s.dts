@@ -10,6 +10,8 @@
 
 	aliases {
 		mmc0 = &sdmmc0;
+		ethernet0 = &rtl8125_1;
+		ethernet1 = &rtl8125_2;
 	};
 };
 
